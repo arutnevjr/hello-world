@@ -1,3 +1,3 @@
 # hello-world
-buildt different
+built different
 Hello I´m joão Learning how this works really focused
